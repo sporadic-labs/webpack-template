@@ -1,10 +1,10 @@
-# Untitled Game #
+# Webpack Template #
 
-A work in progress game about light and shadows.
+Use this template to develop a PhaserJs game!
 
-## Development Screenshots ##
+## Instructions ##
 
-![Screengrab](./docs/screengrab-09.02.2017.gif)
+`npm run dev` to start up development!
 
 ## Tools ##
 
